@@ -1,0 +1,19 @@
+ul{
+    list-style-type: none;
+}
+nav{
+    background-color: #69cc69;
+}
+.name-wrapper{
+    padding: 14px 16px;
+    float: left;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+table{
+   width: 100%;
+}
+th{
+    background-color: #69cc69;
+}
